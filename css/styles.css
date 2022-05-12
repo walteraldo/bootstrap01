@@ -2,6 +2,10 @@
     margin-top: 1em;
 }
 
+.container-title {
+    margin-bottom: 1em;
+}
+
 nav span {
     color: rgb(221 198 198 / 90%);
 }
