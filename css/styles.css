@@ -6,10 +6,10 @@ nav span {
     color: rgb(221 198 198 / 90%);
 }
 
-/*.tabla {*/
-/*    line-height: 0.2em;*/
-/*    margin-top: 1.4em;*/
-/*}*/
+.tabla {
+    line-height: 0.2em;
+    margin-top: 1.4em;
+}
 
 .container-tablas{
     width: 50%;
